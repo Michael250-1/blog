@@ -1,0 +1,52 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.traveldiv{
+	border:1px solid #c7c7c7;
+	padding-left:0px;
+	padding-right:0px;
+	float:none;
+}
+
+.traveldiv hr{
+	width:230px;
+}
+.traveldiv h5, .traveldiv p{
+	margin-left: 20px;
+}
+.bookhead{
+	font-size:20px;
+	padding:6px 22px;
+	border-radius: 10px;
+	margin-bottom: 20px;
+}
+.bookhead i{
+	float:right;
+}
+.booktext span{
+	color:#ff7700;
+}
+.Games_li{
+	margin-top:12px;
+}
+.Games_li h4{
+	border-bottom: 1px solid white;
+	padding:8px;
+}
+p{
+	font-size: 12px;
+}
